@@ -5,7 +5,7 @@
 This project involves analyzing COVID-19 data, focusing on various metrics such as total cases, new cases, total deaths, population, and vaccinations. The analysis aims to derive insights into the impact of COVID-19 on different locations, the infection and death rates, and the vaccination progress.
 
 ## Data Sources
-
+The dataset can be downloaded from:https://ourworldindata.org/covid-deaths
 The analysis utilizes two main datasets:
 1. `coviddeath`: Contains information about COVID-19 cases, deaths, and population for various locations.
 2. `covidvaccination`: Contains information about COVID-19 vaccinations for various locations.
